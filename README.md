@@ -1,1 +1,1 @@
-# gitprofile-prototype
+# Github Profiles with Angular JS
