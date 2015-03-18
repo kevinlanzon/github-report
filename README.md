@@ -1,1 +1,1 @@
-# Github Profiles with AngularJS
+# Github Profiles with Angular JS

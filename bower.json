@@ -4,6 +4,12 @@
   "homepage": "https://github.com/kevinlanzon/jquery-prototype",
   "authors": [
     "Kevin Lanzon <kevinlanzon@gmail.com>"
+
+  "name": "gitprofileprototype",
+  "version": "0.0.0",
+  "homepage": "https://github.com/katebeavis/gitprofile-prototype",
+  "authors": [
+    "Kate <katebeavis84@gmail.com>"
   ],
   "license": "MIT",
   "ignore": [
