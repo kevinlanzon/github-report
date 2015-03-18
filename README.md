@@ -1,1 +1,1 @@
-# jquery-prototype
+# Github Profiles with AngularJS
