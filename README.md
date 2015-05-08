@@ -1,7 +1,7 @@
 Github Report with AngularJS
 =============================
 
-[Makers Academy](http://www.makersacademy.com/) Week 6 Project - Pair programmed with [Kate](https://github.com/katebeavis).
+[Makers Academy](http://www.makersacademy.com/) Week 6 Project - Paired with [Kate](https://github.com/katebeavis).
 
 We were tasked with this project to create a simple Github Profile app purely in JavaScript that grabs data from the Github API in order to display a specified users avatar, number of followers and number of repos.
 
